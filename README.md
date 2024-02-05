@@ -1,14 +1,14 @@
-#Introduction
+# Introduction
 Travelopia is a simple which features a header with navigation buttons, a large cover image with an overlay, and a footer.
 Here is a live link to my site
 ## 🔗 Links
 https://ramyachigatapu.github.io/travelopia-task/
-##Features
+## Features
 - Header with navigation buttons for easy access to different sections of the website.
 - Large cover image with a translucent overlay and title for a captivating visual effect.
 - "Click here" button on the cover image, triggering an alert when clicked.
 - Footer with copyright information aligned to the right side.
-##Code and Decisions I have made
+## Code and Decisions I have made
 - HTML Structure:
   The HTML file (index.html) contains the basic structure of the webpage, including header, content, and footer sections.
 - CSS Styles:
