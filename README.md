@@ -13,8 +13,6 @@ https://ramyachigatapu.github.io/travelopia-task/
   The HTML file (index.html) contains the basic structure of the webpage, including header, content, and footer sections.
 - CSS Styles:
   Styling for the webpage is defined in the styles.css file. Key decisions include:
-- Responsive design:
-  CSS properties such as max-width: 100% for images and overflow-y: hidden for the body ensure that content adjusts dynamically based on screen size, preventing the need for horizontal scrolling and ensuring the entire image is visible.
 - Flexbox layout:
   Flexbox is used for centering and aligning elements within the header and footer sections, providing flexibility and responsiveness to different screen sizes.
 - JavaScript:
